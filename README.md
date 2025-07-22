@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ranu2023&label=Profile%20views&color=0e75b6&style=flat" alt="ranu2023" /> </p>
 
-- 🌱 I’m currently learning **PYTHON WITH MONGODB,DATA ANALYSIS**
+- 🌱 I’m currently learning **PYTHON,DATA ANALYSIS**
 
 - 👨‍💻 All of my projects are available at [https://ranu2023.github.io/ranu_port_folio.github.io/](https://ranu2023.github.io/ranu_port_folio.github.io/)
 
